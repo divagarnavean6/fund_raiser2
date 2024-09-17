@@ -13,7 +13,7 @@
 
 ## Description
 
-The Goodness Gift is a crowd- funding application that will allow people to raise money for events ranging from life events (eg. celebrations, graduations) to challenging circumstances (eg. accidents and illnesses) to community events (eg. school funding, food drives).
+The FUND FOUNTAIN is a crowd- funding application that will allow people to raise money for events ranging from life events (eg. celebrations, graduations) to challenging circumstances (eg. accidents and illnesses) to community events (eg. school funding, food drives).
 Users of this application have the option to 1. Create their own fundraiser post and raise funds for that cause. Or 2. Make a charitable donation to a cause from the list of existing fundraiser posts. At first glance , you will be able to browse from existing fundraisers. However, in order to interact with the site (make your own posts, make a donation, or see other users’ contributed amounts) users would need to either sign up for a new account or login first.
 
 ## User Story
