@@ -1,6 +1,7 @@
 ## Interactive MERN Stack Single-Page Application - FUND FOUNTAION
 
 &nbsp;
+![Uploading mainpage.png…]()
 
 ## Table of Contents:
 
